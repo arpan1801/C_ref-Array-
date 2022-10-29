@@ -1,0 +1,3 @@
+# C_ref-Array-
+# These are the codes of Array in C language which are implemented by me in our lab.
+# Hope this works as wel..........
